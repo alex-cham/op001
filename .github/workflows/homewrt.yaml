@@ -8,8 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt
-
+name: 家中电脑编辑.config
 on:
   repository_dispatch:
   workflow_dispatch:
